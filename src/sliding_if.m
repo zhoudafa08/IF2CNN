@@ -1,5 +1,6 @@
 function sliding_if(x, k, h, w, o)
-% x:time series (eg. nasdaq values)
+ 
+% x:time series (eg. nasdaq values, which is uploaded in the "data" file path)
 % k:minimum length of time series (eg. 50)
 % h:window size (height, eg. 10)
 % w:width (eg. 10)
