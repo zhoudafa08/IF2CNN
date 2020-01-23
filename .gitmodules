@@ -1,0 +1,3 @@
+[submodule "src/FIF"]
+	path = src/FIF
+	url = https://github.com/Acicone/FIF
