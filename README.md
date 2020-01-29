@@ -1,4 +1,5 @@
-# IF2CNN: Towards non-stationary time series feature extraction by integrating iterative filtering and convolutional neural networks. The manuscript has been submitted to IEEE Transactions on Cybernetics on Jan. 25, 2020.
+# IF2CNN: Towards non-stationary time series feature extraction by integrating iterative filtering and convolutional neural networks. 
+The manuscript has been submitted to IEEE Transactions on Cybernetics on Jan. 25, 2020.
 
 # Requirements
 1. Language: Python 2.7.15, Matlab R2014b
