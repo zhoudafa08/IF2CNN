@@ -16,5 +16,7 @@ The manuscript has been submitted to IEEE Transactions on Cybernetics on Jan. 25
 
 # References
 [1] F. Zhou, H. Zhou, Z. Yang, and L. Yang, “EMD2FNN: A strategy combining empirical mode decomposition and factorization machine based neural network for stock market trend prediction,” Expert Systems With Applications, vol. 115, pp. 136–151, 2019.
+
 [2] A. Cicone, J. Liu, and H. Zhou, “Adaptive local iterative filtering for signal decomposition and instantaneous frequency analysis,” Applied and Computational Harmonic Analysis, vol. 41, no. 2, pp. 384–411, 2016.
+
 [3] A. Cicone and H. Zhou, “Multidimensional iterative filtering method for the decomposition of high-dimensional non-stationary signals,” Cambridge Core in Numerical Mathematics: Theory, Methods and Applications, vol. 10, no. 2, pp. 278–298, 2017.
